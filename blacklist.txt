@@ -14,9 +14,9 @@
 /^(.+\.|)marketingcloudapis\.com$/
 /^(.+\.|)polyfill\.io$/
 /^(.+\.|)privacy-mgmt\.com$/
+/^(.+\.|)pub\.network$/
 /^(.+\.|)relevant-digital\.com$/
 /^(.+\.|)richie\.app$/
-/^(.+\.|)sanoma-sndp\.fi$/
 /^(.+\.|)sentry\.io$/
 /^(.+\.|)usercentrics\.eu$/
 assets.adobedtm.com
