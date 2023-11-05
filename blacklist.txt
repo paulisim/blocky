@@ -1,0 +1,13 @@
+/^(.+\.|)adform\.net$/
+/^(.+\.|)adnsx\.com$/
+/^(.+\.|)adnxs-simple\.com$/
+/^(.+\.|)demdex\.net$/
+/^(.+\.|)doubleclick\.net$/
+/^(.+\.|)googlesyndication\.com$/
+/^(.+\.|)googletagmanager\.com$/
+/^(.+\.|)polyfill\.io$/
+/^(.+\.|)privacy-mgmt\.com$/
+/^(.+\.|)richie\.app$/
+/^(.+\.|)sanoma-sndp\.fi$/
+assets.adobedtm.com
+tracking.miui.com
