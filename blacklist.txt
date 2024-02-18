@@ -1,9 +1,11 @@
 /^(.+\.|)adform\.net$/
 /^(.+\.|)adnxs-simple\.com$/
 /^(.+\.|)adnxs\.com$/
+/^(.+\.|)afkwa\.com$/
 /^(.+\.|)app-measurement\.com$/
 /^(.+\.|)avantlink\.com$/
 /^(.+\.|)braze\.com$/
+/^(.+\.|)chatbro\.com$/
 /^(.+\.|)demdex\.net$/
 /^(.+\.|)dnt-userreport\.com$/
 /^(.+\.|)doubleclick\.net$/
@@ -19,6 +21,7 @@
 /^(.+\.|)relevant-digital\.com$/
 /^(.+\.|)richie\.app$/
 /^(.+\.|)sentry\.io$/
+/^(.+\.|)topqualitylink\.com$/
 /^(.+\.|)usercentrics\.eu$/
 assets.adobedtm.com
 eu-mobile.events.data.microsoft.com
