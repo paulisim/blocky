@@ -2,6 +2,7 @@
 /^(.+\.|)adnxs-simple\.com$/
 /^(.+\.|)adnxs\.com$/
 /^(.+\.|)app-measurement\.com$/
+/^(.+\.|)avantlink\.com$/
 /^(.+\.|)braze\.com$/
 /^(.+\.|)demdex\.net$/
 /^(.+\.|)dnt-userreport\.com$/
@@ -24,4 +25,5 @@ eu-mobile.events.data.microsoft.com
 firebase-settings.crashlytics.com
 mobile.pipe.aria.microsoft.com
 qcc.qualcomm.com
+stvbiopr.net
 tracking.miui.com
