@@ -1,6 +1,6 @@
 /^(.+\.|)adform\.net$/
-/^(.+\.|)adnsx\.com$/
 /^(.+\.|)adnxs-simple\.com$/
+/^(.+\.|)adnxs\.com$/
 /^(.+\.|)app-measurement\.com$/
 /^(.+\.|)braze\.com$/
 /^(.+\.|)demdex\.net$/
