@@ -1,6 +1,7 @@
 /^(.+\.|)adform\.net$/
 /^(.+\.|)adnxs-simple\.com$/
 /^(.+\.|)adnxs\.com$/
+/^(.+\.|)afcdn.net$/
 /^(.+\.|)afkwa\.com$/
 /^(.+\.|)app-measurement\.com$/
 /^(.+\.|)avantlink\.com$/
@@ -15,6 +16,7 @@
 /^(.+\.|)gvt3\.com$/
 /^(.+\.|)kameleoon\.io$/
 /^(.+\.|)marketingcloudapis\.com$/
+/^(.+\.|)orbsrv.com$/
 /^(.+\.|)polyfill\.io$/
 /^(.+\.|)privacy-mgmt\.com$/
 /^(.+\.|)pub\.network$/
