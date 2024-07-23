@@ -1,6 +1,7 @@
 /^(.+\.|)adform\.net$/
 /^(.+\.|)adnxs-simple\.com$/
 /^(.+\.|)adnxs\.com$/
+/^(.+\.|)adtng.com$/
 /^(.+\.|)afcdn.net$/
 /^(.+\.|)afkwa\.com$/
 /^(.+\.|)app-measurement\.com$/
@@ -19,9 +20,11 @@
 /^(.+\.|)orbsrv.com$/
 /^(.+\.|)polyfill\.io$/
 /^(.+\.|)privacy-mgmt\.com$/
+/^(.+\.|)prvc.io$/
 /^(.+\.|)pub\.network$/
 /^(.+\.|)relevant-digital\.com$/
 /^(.+\.|)richie\.app$/
+/^(.+\.|)rvetreyu.net$/
 /^(.+\.|)sentry\.io$/
 /^(.+\.|)topqualitylink\.com$/
 /^(.+\.|)usercentrics\.eu$/
