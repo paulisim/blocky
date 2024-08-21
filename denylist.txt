@@ -28,8 +28,10 @@
 /^(.+\.|)sentry\.io$/
 /^(.+\.|)topqualitylink\.com$/
 /^(.+\.|)usercentrics\.eu$/
+ad-delivery.net
 assets.adobedtm.com
 eu-mobile.events.data.microsoft.com
+external-preview.redd.it
 firebase-settings.crashlytics.com
 mobile.pipe.aria.microsoft.com
 qcc.qualcomm.com
