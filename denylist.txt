@@ -16,6 +16,7 @@
 /^(.+\.|)gvt2\.com$/
 /^(.+\.|)gvt3\.com$/
 /^(.+\.|)kameleoon\.io$/
+/^(.+\.|)machotube.tv$/
 /^(.+\.|)marketingcloudapis\.com$/
 /^(.+\.|)orbsrv.com$/
 /^(.+\.|)polyfill\.io$/
