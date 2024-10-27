@@ -11,6 +11,7 @@
 /^(.+\.|)demdex\.net$/
 /^(.+\.|)dnt-userreport\.com$/
 /^(.+\.|)doubleclick\.net$/
+/^(.+\.|)googleoptimize.\com$/
 /^(.+\.|)googlesyndication\.com$/
 /^(.+\.|)googletagmanager\.com$/
 /^(.+\.|)gvt2\.com$/
@@ -27,6 +28,7 @@
 /^(.+\.|)richie\.app$/
 /^(.+\.|)rvetreyu.net$/
 /^(.+\.|)sentry\.io$/
+/^(.+\.|)testfreaks\.com$/
 /^(.+\.|)topqualitylink\.com$/
 /^(.+\.|)usercentrics\.eu$/
 ad-delivery.net
