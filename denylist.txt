@@ -1,4 +1,5 @@
 /^(.+\.|)adform\.net$/
+/^(.+\.|)adnami\.io$/
 /^(.+\.|)adnxs-simple\.com$/
 /^(.+\.|)adnxs\.com$/
 /^(.+\.|)adtng.com$/
@@ -7,6 +8,7 @@
 /^(.+\.|)app-measurement\.com$/
 /^(.+\.|)avantlink\.com$/
 /^(.+\.|)braze\.com$/
+/^(.+\.|)braze\.eu$/
 /^(.+\.|)chatbro\.com$/
 /^(.+\.|)demdex\.net$/
 /^(.+\.|)dnt-userreport\.com$/
