@@ -13,7 +13,7 @@
 /^(.+\.|)demdex\.net$/
 /^(.+\.|)dnt-userreport\.com$/
 /^(.+\.|)doubleclick\.net$/
-/^(.+\.|)googleoptimize.\com$/
+/^(.+\.|)googleoptimize\.com$/
 /^(.+\.|)googlesyndication\.com$/
 /^(.+\.|)googletagmanager\.com$/
 /^(.+\.|)gvt2\.com$/
