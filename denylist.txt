@@ -16,6 +16,7 @@
 /^(.*\.|)googleoptimize\.com$/
 /^(.*\.|)googlesyndication\.com$/
 /^(.*\.|)googletagmanager\.com$/
+/^(.*\.|)gsi\.fi$/
 /^(.*\.|)gvt2\.com$/
 /^(.*\.|)gvt3\.com$/
 /^(.*\.|)kameleoon\.io$/
@@ -33,6 +34,7 @@
 /^(.*\.|)testfreaks\.com$/
 /^(.*\.|)topqualitylink\.com$/
 /^(.*\.|)usercentrics\.eu$/
+/^(.*\.|)website-files\.com$/
 ad-delivery.net
 assets.adobedtm.com
 eu-mobile.events.data.microsoft.com
