@@ -31,11 +31,13 @@
 /^(.*\.|)richie\.app$/
 /^(.*\.|)rvetreyu.net$/
 /^(.*\.|)sentry\.io$/
+/^(.*\.|)smartadserver\.com$/
 /^(.*\.|)testfreaks\.com$/
 /^(.*\.|)topqualitylink\.com$/
 /^(.*\.|)usercentrics\.eu$/
 /^(.*\.|)website-files\.com$/
 ad-delivery.net
+akamai.smartadserver.com.edgesuite.net
 assets.adobedtm.com
 eu-mobile.events.data.microsoft.com
 external-preview.redd.it
