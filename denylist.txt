@@ -47,6 +47,7 @@ eu-mobile.events.data.microsoft.com
 external-preview.redd.it
 firebase-settings.crashlytics.com
 hugbikeshop.fi
+incoming.telemetry.mozilla.org
 mobile.pipe.aria.microsoft.com
 nts.netnod.se
 qcc.qualcomm.com
